@@ -20,3 +20,8 @@
 
 ## Frontend
 * Versão 1.0 - Desenvolvido em HTML e JavaScript (com Axios)
+
+### Como clonar o repositório
+```bash
+git clone --recurse-submodules --remote-submodules <repo>
+```
