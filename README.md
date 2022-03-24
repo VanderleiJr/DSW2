@@ -23,5 +23,5 @@
 
 ### Como clonar o repositório
 ```bash
-git clone --recurse-submodules --remote-submodules <repo>
+git clone --recurse-submodules --remote-submodules https://github.com/VanderleiJr/DSW2.git
 ```
