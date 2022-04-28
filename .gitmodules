@@ -4,3 +4,6 @@
 [submodule "mercadoGamer-frontend"]
 	path = mercadoGamer-frontend
 	url = git@github.com:VanderleiJr/mercadoGamer-frontend.git
+[submodule "mercadoGamer-frontendReact"]
+	path = mercadoGamer-frontendReact
+	url = git@github.com:VanderleiJr/mercadoGamer-frontendReact.git
