@@ -1,0 +1,75 @@
+.container {
+    display: inline-flex;
+    width: 101%;
+    height: 20%;
+}
+
+.container_reverse {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.buttons_container {
+    width: 80%;
+    padding: 0% 0% 0% 2%;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+
+#main_container{
+    height: 60vh;
+}
+
+#formulario{
+    padding: 1em;
+    background-color: beige;
+}
+
+.pedidos{
+    width: 40%;
+    padding: 1em;
+    background-color: cyan;
+}
+
+.catalogo{
+    width: 40%;
+    padding: 1em;
+    background-color: rgb(6, 224, 224);
+}
+
+.dados_empresa{
+    width: 20%;
+    padding: 1em;
+    background-color: brown;
+}
+
+.funcoes_admin{
+    padding: 0% 0% 0% 1%;
+}
+
+.header2{
+    flex: 1;
+    background-color: yellowgreen;
+    height: 5%;
+    padding: 1em;
+}
+
+.footer2{
+    flex: 1;
+    position: absolute;
+    margin-bottom: 2%;
+    padding: 0% 1% 1% 0%;
+    width: 101%;
+    bottom: 0;
+    background-color: yellowgreen;
+}
+
+.form_new_stock{
+    padding: 0% 0% 0% 2%;
+}

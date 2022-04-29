@@ -1,0 +1,41 @@
+
+.container {
+    display: inline-flex;
+    width: 101%;
+}
+
+.container-reverse {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+
+.botao_voltar{
+    padding: 1em;
+    background-color: beige;
+}
+
+.market{
+    width: 100%;
+    padding: 1em;
+    background-color: cyan;
+}
+
+.header2{
+    width: 101%;
+    flex: 1;
+    background-color: yellowgreen;
+    padding: 1em;
+    color: #ffffff;
+    position: relative;
+    text-align: center;
+    font-size: 150%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

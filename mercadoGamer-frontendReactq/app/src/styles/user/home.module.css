@@ -1,0 +1,42 @@
+.container {
+    display: inline-flex;
+    width: 101%;
+}
+
+.container_reverse {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+
+#botoes{
+    padding: 1em;
+    background-color: beige;
+}
+
+#home_user_orders{
+    width: 80%;
+    padding: 1em;
+    background-color: cyan;
+}
+
+#dados_usuario{
+    word-break:break-all;
+    width: 20%;
+    padding: 1em;
+    background-color: brown;
+    flex-wrap: wrap;
+}
+
+.header2{
+    flex: 1;
+    background-color: yellowgreen;
+    padding: 1em;
+}

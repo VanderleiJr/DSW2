@@ -1,0 +1,48 @@
+.header {
+    background-color: #FFF;
+    height: 5%;
+}
+.pagina {
+    width: 45%;
+    padding: 3% 0 5%;
+    margin: auto;
+}
+
+.pagina .form .cadastro {
+    margin-top: -10%;
+    margin-bottom: 5%;
+}
+
+.form {
+    position: relative;
+    z-index: 1;
+    max-width: 60%;
+    background: #FFFFFF;
+    margin: 0 auto auto;
+    padding: 5%;
+    text-align: center;
+}
+
+.form input {
+    width: 100%;
+    border: 0;
+    font-size: 14px;
+    background: #F2F2F2;
+}
+
+.form #btn {
+    text-transform: uppercase;
+    width: 100%;
+    padding: 3%;
+    font-size: 14px;
+    color: #FFF;
+    background-image: linear-gradient(to bottom left, #3aa7a1, #225e5b);
+}
+
+.container {
+    position: relative;
+    z-index: 1;
+    max-width: 20%;
+    margin: 0 auto;
+}
+

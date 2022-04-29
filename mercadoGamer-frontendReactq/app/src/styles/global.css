@@ -1,0 +1,11 @@
+.footerG {
+    left: 0;
+    padding-left: 80%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    font-size: 50%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+}
